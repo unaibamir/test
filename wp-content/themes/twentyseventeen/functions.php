@@ -1,7 +1,7 @@
 <?php
 /**
  * Twenty Seventeen functions and definitions
- *
+ * test
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
  * @package WordPress
